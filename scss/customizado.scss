@@ -311,3 +311,16 @@ body {
       margin-top: 50%;
       margin-bottom: 50%;
   }
+  
+            .parallax2 { 
+                /* The image used */
+                background-image: url("../img/portfolio/fullsize/5.jpg");
+                /* Set a specific height */
+                height: 500px; 
+                /* Create the parallax scrolling effect */
+                background-attachment: fixed;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+            
